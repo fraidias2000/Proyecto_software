@@ -1,0 +1,25 @@
+Después de una reunión con Ana, se ha decidido cambiar ciertos aspectos de la lógica de modelo aplicada al prototipo 4:
+ 	• Se creará una nueva clase llamada “Alquiler” donde se guardará información del usuario que alquilará un videojuego, 
+        así como la información del propio videojuego, la fecha de alquiler y la fecha de devolución.
+
+	• Una clase Pedido que contendrá un array de Alquiler, un precio total del pedido y un número de pedido.
+
+	• Modificar el método de la clase usuario para modificar todos sus atributos con un único método.
+
+Por lo cual las modificaciones creadas anteriormente en el prototipo 4 están mal por lo que se deberá coger el prototipo 3.1 
+y volver a diseñar la lógica de alquiler-devolución de un videojuego, añadiendo las clases mencionadas anteriormente.
+
+Los prototipos siguen siendo los mismos:
+	• Prototipo 4.1: Implementación alquiler de un videojuego (12/05/2021-18/05/2021)
+		o El tiempo estimado es de 6 horas dividido en 6 días (1 hora por día)
+		o La cantidad de dinero necesaria es de 10€/hora (60€)
+
+	• Prototipo 4.2: Implementación devolución de un videojuego (18/05/2021-21/05/2021).
+		o El tiempo estimado es de 6 horas dividido en 3 días (2 horas por día)
+		o La cantidad de dinero necesaria es de 10€/hora (60€)
+
+	• Prototipo 4.3: Listar información videojuegos totales disponibles, videojuegos totales no disponibles y videojuegos de un pedido de un usuario en concreto (21/05/2021-25/05/2021)
+		o El tiempo estimado es de 10 horas dividido en 5 días (2 horas por día)
+		o La cantidad de dinero necesaria es de 10€/hora (100€)
+
+El tiempo total es de 22 horas y la cantidad de dinero necesaria es de 220€

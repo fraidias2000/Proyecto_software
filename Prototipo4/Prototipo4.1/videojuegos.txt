@@ -1,0 +1,18 @@
+1,call of duty,5,accion,ps4,10,imagen1.jpg
+2,call of duty,5,accion,window,10,imagen1.jpg
+3,call of duty,5,accion,xbox,10,imagen1.jpg
+4,Minecraft,4,creatividad,ps4,10,imagen2.jpg
+5,Minecraft,4,creatividad,window,10,imagen2.jpg
+6,Minecraft,4,creatividad,xbox,10,imagen2.jpg
+7,Fortnite,6,accion,ps4,10,imagen3.jpg
+8,Fortnite,6,accion,window,10,imagen3.jpg
+9,Fortnite,6,accion,xbox,10,imagen3.jpg
+10,OverWatch,7,accion,ps4,10,imagen4.png
+11,OverWatch,7,accion,window,10,imagen4.png
+12,OverWatch,7,accion,xbox,10,imagen4.png
+13,Dragon Ball,3,lucha,ps4,10,imagen5.png
+14,Dragon Ball,3,lucha,window,10,imagen5.png
+15,Dragon Ball,3,lucha,xbox,10,imagen5.png
+16,FIFA 21,10,deporte,ps4,10,imagen6.png
+17,FIFA 21,10,deporte,window,10,imagen6.png
+18,FIFA 21,10,deporte,xbox,10,imagen6.png
