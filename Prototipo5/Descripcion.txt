@@ -1,0 +1,15 @@
+PROTOTIPO 5
+Este prototipo implementa la funcionalidad de ampliar la fecha de devolución de un videojuego.
+En este prototipo, un usuario con una sesión activa y un código de videojuego válido puede ampliar el plazo de devolución siempre que sea posible
+
+También se han resuelto ciertos errores en la lógica interna del programa.
+
+Solo existe un único prototipo:
+	• Prototipo 5.0 (25/5/21-8/6/21): Implementación ampliar fecha devolución:
+		o El tiempo estimado es de 6 horas dividido en 14 días ya que por motivos ajenos a nuesta voluntad se nos reclamó en varios proyectos
+		 (examenes y trabajos de otras asignaturas)
+		o La cantidad de dinero necesaria es de 10€/hora (60€)
+
+
+
+
