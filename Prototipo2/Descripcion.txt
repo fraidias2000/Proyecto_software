@@ -1,0 +1,23 @@
+Día 4 (Desde 22/04/2021 hasta 28/04/2021)
+
+Titulo
+Implementación prototipo 2
+
+Descripción
+Para que la aplicación funcione correctamente se deben guardar todos los datos de los usuarios que quieran 
+alquilar un videojuego. 
+
+En este prototipo el programador Álvaro Fraidias Monteagudo codificará los métodos 
+necesarios para dar de alta (registrar) y dar de baja (eliminar) los usuarios en el sistema.
+En este prototipo no se guardará en una base de datos ya que todavía no se ha creado, sino que se guardará 
+en un HashMap.
+
+En el prototipo 2.0(22/04/2021 - 26/04/2021) implementará la funcionalidad de registrar y eliminar usuarios en nuestro sistema.
+•	El tiempo necesario será de 6 horas dividido en 4 días (1,5 horas al día). 
+•	El coste será de 10€ por hora (60€)
+
+En el prototipo 2.1 (26/04/2021 - 28/04/2021) implementará la funcionalidad para listar la información de un usuario.
+•	El tiempo necesario será de 2 hora dividido en 2 días (1 hora por día). 
+•	El coste será de 10€ por hora (20€)
+
+El tiempo total serán 8 horas dividido en 6 días con un coste de 80€
