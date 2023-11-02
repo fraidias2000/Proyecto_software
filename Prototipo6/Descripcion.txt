@@ -1,0 +1,30 @@
+Titulo
+	Implementación prototipo 6
+Descripción
+	En este prototipo se añade la funcionalidad de añadir, eliminar mensajes en un foro y puntuar los videojuegos.
+
+Prototipo 6.0 (10/06/2021 - 15/06/2021)
+Descripción
+	Añadir comentarios al foro.
+	Cada videojuego tendrá un vector con todos los comentarios donde el usuario podrá añadir dichos comentarios (Comentarios es una clase donde habrá un identificador y un texto)
+		• El tiempo destinado es de 10 horas dividido en 5 días (2 horas por día).
+		• El coste será de 10€ la hora (100€)
+		• Las líneas de código ascienden a 227.
+
+Prototipo 6.1 (10/06/2021 - 15/06/2021)
+Descripción
+	Eliminar comentarios al foro.
+	Cada videojuego tendrá un vector con todos los comentarios donde el usuario podrá eliminar dichos comentarios (Siempre y cuando el videojuego y el comentario exista) 
+		• El tiempo destinado es de 5 horas dividido en 5 días.
+		• El coste será de 10€ la hora (50€)
+		• Las líneas de código ascienden a 234.
+
+Prototipo 6.2 (16/06/2021 - 18/06/2021)
+Descripción
+	Puntuar un videojuego. 
+	Cada usuario podrá puntuar un videojuego en base a sus experiencias en él. 
+	En el sistema se quedará registrada cada puntuación y se hará una media aritmética para mostrar la puntuación real generada por todos los usuarios.
+		• El tiempo destinado es de 4 horas dividido en 2 días (2 horas al día).
+		• El coste será de 10€ la hora (40€)
+		• Las líneas de código ascienden a 223.
+El tiempo total es de 19 horas con un precio de 190€
