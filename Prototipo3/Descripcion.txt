@@ -1,0 +1,27 @@
+Día 3 (19/04/2021 hasta el 27/04/2021)
+
+Titulo
+Implementación prototipo 3
+
+Prototipo 3.0 (19/04/2021 - 23/04/2021)
+	Descripción
+		Inicialmente los videojuegos se deben registrar en la base de datos desde un fichero, 
+		pero también pueden darse de alta o por el contrario de baja de forma manual. 
+		En este día el programador Álvaro Fraidias Monteagudo implementará los métodos necesarios 
+		para dar de alta y de baja dichos juegos de forma manual. 
+	
+		• Se han añadido los métodos “darDeAltaVideojuego” y “darDeBajaVideojuego” en agencia para implementar dichas funcionalidades.
+
+		El tiempo necesario serán 5 horas dividido en 5 días (1 hora por día). 
+		El coste será 10€ por hora (50€)
+
+Prototipo 3.1 (23/04/2021 - 27/04/2021)
+	Descripción
+		Este prototipo pretende implementar la funcionalidad de mostrar la información dado un videojuego. Habrá dos tipos de información
+		La breve cuya finalidad es mostrar al usuario la información de un videojuego y la extensa dedicada al administrador.
+
+		El tiempo necesario serán 3 horas dividido en 5 días (0,6 horas al día)
+		El coste será de 10€ por hora (30€)
+
+El tiempo total son 8 horas con un coste total de 80€
+
